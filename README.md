@@ -1,8 +1,9 @@
-# GitSample1
+# GitSample
 
-Gitの練習するために作成したRepository
+Git操作の理解するために作成したRepositoryです。
 
-Issues
-Milestone
-Pull　Request
-の練習をしていく。
+- Issues
+- Milestone
+- Pull　Request
+
+の練習をしました。
